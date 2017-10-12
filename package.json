@@ -1,0 +1,22 @@
+{
+  "name": "cheatsheets",
+  "version": "1.0.0",
+  "description": "A live repo to collect all the best practices, howtos, and stuff like that.",
+  "keywords": [
+    "cheatsheet",
+    "best practice",
+    "howto"
+  ],
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Viktor Horvath",
+    "email": "zsakmany@gmail.com"
+  },
+  "license": "ISC"
+}
